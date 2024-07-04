@@ -11,10 +11,7 @@ The above figure represents the given linked list. The modified list contains
 - The sum of the nodes marked in green: 3 + 1 = 4.
 - The sum of the nodes marked in red: 4 + 5 + 2 = 11.
  */
-
-
-
- public class Question1 {
+  public class Question1 {
     
     
     public ListNode mergeNodes(ListNode head ) {
